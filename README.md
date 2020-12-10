@@ -1,7 +1,5 @@
 # Auto-Survey-i-Gracias-gajelas-Auto-Sangad-Penting-
 Jangan sia siakan jemari anda untuk mengisi survey i-gracias gajelas
+![image](https://user-images.githubusercontent.com/54921947/101718579-1386a100-3ad4-11eb-9e54-7153dabd8a08.png)
 
-Step :
-1.Use TamperMonkey in your browser
-2.Open the TamperMonkey
-3.Copy the script and run
+Just use your tampermonkey , and run script :p
